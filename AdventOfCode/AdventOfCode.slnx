@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/docs/" />
+  <Folder Name="/docs/">
+    <Project Path="docs/AdventOfCode.Docs.csproj" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/AdventOfCode.Core/AdventOfCode.Core.csproj" />
   </Folder>
